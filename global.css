@@ -46,7 +46,6 @@ header {
     width: 100%;
 }
 
-
 .navMobile {
     display: none;
     width: 2.8rem;
@@ -56,7 +55,7 @@ header {
     background-color: #fa8035;
     border-radius: 3rem;
     cursor: pointer;
-  }
+}
 
 /* Estilo do footer */
 footer {
